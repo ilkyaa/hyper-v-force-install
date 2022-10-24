@@ -8,4 +8,4 @@
 
 ## **How can I install it without having Windows Professional Edition ?**
 
-You just need to install and run in administrator the batch file, it’s simple as that.
+You just need to install and run the batch file in an administrator Terminal, it’s simple as that.
