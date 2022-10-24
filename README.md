@@ -1,6 +1,6 @@
 # Windows Hyper-V Force Install
 
-![Microsoft Hyper-V] (README/Untitled.png)
+![Microsoft Hyper-V](README/Untitled.png)
 
 ## **What is Hyper-V ?**
 
